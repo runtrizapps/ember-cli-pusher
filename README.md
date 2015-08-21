@@ -1,5 +1,9 @@
 #  Ember Pusher
 
+IMPORTANT! This project is deprecated. Please use the original [ember-pusher](https://github.com/jamiebikies/ember-pusher) that is an Ember CLI addon now.
+
+---
+
 This is an npm package that contains the Ember Pusher library
 packaged as an [Ember CLI](https://github.com/stefanpenner/ember-cli) addon.
 
